@@ -8,7 +8,26 @@ BlinkQUIZ is a web application for all kinds of users. Users can simply log in t
 
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/110801536/236526551-6d706559-7b0a-42a3-b627-0b3c9fc487e0.png">
 
+Teacher creates a Quiz
+
 <img width="952" alt="image" src="https://user-images.githubusercontent.com/110801536/236526856-722d5515-0c26-4221-9444-99daa4fcc1c2.png">
+
+The Quiz code is generated
+
+<img width="954" alt="image" src="https://github.com/VreetiAggarwal/BlinkQuiz/assets/110801536/1db796a0-1780-4fd7-9cd6-36cc20d1d572">
+
+The student can apply this code to acces the Quiz
+
+<img width="953" alt="image" src="https://github.com/VreetiAggarwal/BlinkQuiz/assets/110801536/646d7797-74c2-4d6b-a6d6-8c81221446e4">
+
+<img width="952" alt="image" src="https://github.com/VreetiAggarwal/BlinkQuiz/assets/110801536/22f13aad-1a12-42cc-a7e4-2ad8eebe6915">
+
+<img width="955" alt="image" src="https://github.com/VreetiAggarwal/BlinkQuiz/assets/110801536/c761ecfd-2e8a-4a3f-8c2f-7ccfa6938d11">
+
+The Dashboard shows attempted Quiz
+
+<img width="951" alt="image" src="https://github.com/VreetiAggarwal/BlinkQuiz/assets/110801536/5fdabb90-c74b-4349-8bae-53fab398ef19">
+
 
 ## 🚀 Configuration Guidelines
 
